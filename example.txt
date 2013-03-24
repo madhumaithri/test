@@ -1,0 +1,26 @@
+Aims
+  	
+This module aims at providing students with technical skills and hands-on experience of user interface development. It focuses on the design and implementation of user interfaces in general, including graphical user interface. It covers essential topics including user interface models, psychology of humans and computers, user interface style, layout guidelins, GUI programming with widget toolkits, interaction models, event handling, multithreading, interacting with multimedia hardware, usability testing. Selected advanced topics such as geometric transformation, and 3D user interfaces, multiple-user interaction and real-time interaction are also covered.
+
+Objectives
+
+Understand the design principles of user interface.
+Design intuitive, easy-to-use user interface.
+Implement user interface with Qt under Ubuntu linux.
+
+Why use Qt?
+	
+Qt is a cross-platform application and user interface framework. It is widely used for developing cross-platform software with graphical user interfaces. It can run in Linux, Windows, and MacOS platforms, as well as embedded and mobile platforms such as Embedded Linux, Windows Embedded, Windows Mobile, Nokia Symbian, and Nokia N9/N900 smartphones.It is used by European Space Agency, DreamWorks, Google, HP, LucasFilm, Panasonics, Philips, Samsung, Siemens, Volvo, and more.
+
+Qt is most notably used in Autodesk Maya, The Foundry's Nuke, Adobe Photoshop Elements, Skype, and VLC media player.
+
+Distributed under the terms of the GNU Lesser General Public License (among others), Qt is free and open source software. It supports many compilers including GCC C++ compiler and Visual Studio. It has supports for internationalisation, SQL database access, XML parsing, multi-threading, and  networking. It can work with powerful open-source visualisation tools such as OpenGL and VTK. It also comes with wrapper for Python.
+
+Why use Ubuntu Linux?
+	
+Ubuntu is an operating system based on Linux. It is distributed as a free and open-source software with its own graphical desktop environment. It is named after the South African philosophy of ubuntu, which means humanity towards others.
+
+Ubuntu is the most popular Linux distribution for desktop and laptop computers.  It
+is also popular for servers and cloud computing. It is fast, easy to use, and free! It is installed with a wide range of free software, and more can be installed through Ubuntu Software Center and apt-based package manager. Because Linux is a very secured operating system, it is very difficult to break into a Linux system. There are so few Linux viruses that you don't even need to worry about installing a virus scanner!
+
+Most importantly, the Linux environment offers the cleanest way to learn Qt programming.
